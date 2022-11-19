@@ -1,1 +1,2 @@
-members = []
+[workspace]
+members = ['actix-web']
